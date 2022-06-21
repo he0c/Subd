@@ -1,4 +1,4 @@
-# Subd
+# Subd.py by Heoc
 A simple script to find subdomains.
 
 To use the script you must install colorama.
